@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 ## Purpose
 
-This project is created for Ramp frontend Software engineer applications.
+This project is created for Ramp frontend Software engineer application.
