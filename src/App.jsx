@@ -23,4 +23,7 @@ function App() {
   )
 }
 
+// The script I used to extract the flag word is in the file scripts/HiddenLinkScript.js
+
+
 export default App
